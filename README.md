@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:  
 --->
-
+![](https://www.pngitem.com/pimgs/m/146-1468479_my-profile-icon-blank-profile-picture-circle-hd.png)
 - 🔭 I’m currently a student in VR Siddhartha Engineering college
 - 🌱 I’m currently pursuing B. Tech 2nd year
 - 🔭 I'm currently working on a mini DIY project lecture rescheduler and Web designing
